@@ -48,26 +48,50 @@ TextureImporter:
       213: 365073708548367026
     second: gas_14
   - first:
-      213: -2417261446522700872
-    second: gas_15
+      213: 4960222917772115086
+    second: gas_0
   - first:
-      213: 7637233801708086926
-    second: gas_16
+      213: 471672633153033680
+    second: gas_1
   - first:
-      213: 267891308346300920
-    second: gas_17
+      213: 6072797374995408752
+    second: gas_2
   - first:
-      213: 5198839434282361320
-    second: gas_18
+      213: 2958015451686482524
+    second: gas_3
   - first:
-      213: 4188742555438462386
-    second: gas_19
+      213: -3061732157830575462
+    second: gas_4
   - first:
-      213: 5012162736977246141
-    second: gas_20
+      213: 8438644980536776932
+    second: gas_5
   - first:
-      213: -8091930602082775632
-    second: gas_21
+      213: -5687005885295165982
+    second: gas_6
+  - first:
+      213: -4037273928162451395
+    second: gas_7
+  - first:
+      213: -3624069930667765483
+    second: gas_8
+  - first:
+      213: -4250711516227536224
+    second: gas_9
+  - first:
+      213: 3141833093122249925
+    second: gas_10
+  - first:
+      213: -2757562731731478498
+    second: gas_11
+  - first:
+      213: 406388213355566560
+    second: gas_12
+  - first:
+      213: 2347692824351542808
+    second: gas_13
+  - first:
+      213: -8186903294656990006
+    second: gas_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -156,10 +180,10 @@ TextureImporter:
       name: gas_0
       rect:
         serializedVersion: 2
-        x: 271
-        y: 1063
-        width: 218
-        height: 426
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,8 +191,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1524299de74f3c8d0800000000000000
-      internalID: -2827147315405241775
+      spriteID: e8cfe8c967046d440800000000000000
+      internalID: 4960222917772115086
       vertices: []
       indices: 
       edges: []
@@ -177,10 +201,10 @@ TextureImporter:
       name: gas_1
       rect:
         serializedVersion: 2
-        x: 271
-        y: 1063
-        width: 218
-        height: 426
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,8 +212,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0fe8f5263ab41f60800000000000000
-      internalID: 8004227179472285454
+      spriteID: 0d51c55c2c7bb8600800000000000000
+      internalID: 471672633153033680
       vertices: []
       indices: 
       edges: []
@@ -198,10 +222,10 @@ TextureImporter:
       name: gas_2
       rect:
         serializedVersion: 2
-        x: 782
-        y: 1063
-        width: 220
-        height: 426
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,8 +233,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: affa59e1e0be92d20800000000000000
-      internalID: 3254390651627089914
+      spriteID: 077a6899909e64450800000000000000
+      internalID: 6072797374995408752
       vertices: []
       indices: 
       edges: []
@@ -219,10 +243,10 @@ TextureImporter:
       name: gas_3
       rect:
         serializedVersion: 2
-        x: 782
-        y: 1063
-        width: 220
-        height: 426
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,8 +254,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e080a97cd889559c0800000000000000
-      internalID: -3939074564359059442
+      spriteID: c52b3ed816bfc0920800000000000000
+      internalID: 2958015451686482524
       vertices: []
       indices: 
       edges: []
@@ -240,10 +264,10 @@ TextureImporter:
       name: gas_4
       rect:
         serializedVersion: 2
-        x: 1294
-        y: 1063
-        width: 219
-        height: 426
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,8 +275,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89378c3db2252a880800000000000000
-      internalID: -8601221990134025320
+      spriteID: a9a4e1ff2da8285d0800000000000000
+      internalID: -3061732157830575462
       vertices: []
       indices: 
       edges: []
@@ -261,10 +285,10 @@ TextureImporter:
       name: gas_5
       rect:
         serializedVersion: 2
-        x: 1294
-        y: 1063
-        width: 219
-        height: 426
+        x: 0
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,8 +296,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95ebd8150759cf3b0800000000000000
-      internalID: -5477338737152246183
+      spriteID: 4e8178266e61c1570800000000000000
+      internalID: 8438644980536776932
       vertices: []
       indices: 
       edges: []
@@ -282,10 +306,10 @@ TextureImporter:
       name: gas_6
       rect:
         serializedVersion: 2
-        x: 1807
-        y: 1063
-        width: 219
-        height: 426
+        x: 512
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,8 +317,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47655680a6d243fc0800000000000000
-      internalID: -3516135475638872460
+      spriteID: 2edfc634742b311b0800000000000000
+      internalID: -5687005885295165982
       vertices: []
       indices: 
       edges: []
@@ -303,10 +327,10 @@ TextureImporter:
       name: gas_7
       rect:
         serializedVersion: 2
-        x: 1807
-        y: 1063
-        width: 219
-        height: 426
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,8 +338,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9bc5ab9cedeb59c0800000000000000
-      internalID: -3937291848725967971
+      spriteID: d306ee2b0c8b8f7c0800000000000000
+      internalID: -4037273928162451395
       vertices: []
       indices: 
       edges: []
@@ -324,10 +348,10 @@ TextureImporter:
       name: gas_8
       rect:
         serializedVersion: 2
-        x: 2318
-        y: 1063
-        width: 220
-        height: 426
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,8 +359,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a10d26c9103c9e240800000000000000
-      internalID: 4821599287762931738
+      spriteID: 5119f556997b4bdc0800000000000000
+      internalID: -3624069930667765483
       vertices: []
       indices: 
       edges: []
@@ -345,10 +369,10 @@ TextureImporter:
       name: gas_9
       rect:
         serializedVersion: 2
-        x: 2318
-        y: 1063
-        width: 220
-        height: 426
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,8 +380,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9caab97c0ef1f320800000000000000
-      internalID: 2590130590250085533
+      spriteID: 0aa7890b5607205c0800000000000000
+      internalID: -4250711516227536224
       vertices: []
       indices: 
       edges: []
@@ -366,10 +390,10 @@ TextureImporter:
       name: gas_10
       rect:
         serializedVersion: 2
-        x: 271
-        y: 551
-        width: 218
-        height: 427
+        x: 0
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,8 +401,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cca6a3be6f2a3400800000000000000
-      internalID: 304608077307882689
+      spriteID: 5c45e135d880a9b20800000000000000
+      internalID: 3141833093122249925
       vertices: []
       indices: 
       edges: []
@@ -387,10 +411,10 @@ TextureImporter:
       name: gas_11
       rect:
         serializedVersion: 2
-        x: 271
-        y: 551
-        width: 218
-        height: 427
+        x: 512
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,8 +422,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0da33eb683f5f5fa0800000000000000
-      internalID: -5809820298351789360
+      spriteID: e181a414e4b2bb9d0800000000000000
+      internalID: -2757562731731478498
       vertices: []
       indices: 
       edges: []
@@ -408,10 +432,10 @@ TextureImporter:
       name: gas_12
       rect:
         serializedVersion: 2
-        x: 782
-        y: 551
-        width: 220
-        height: 427
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,8 +443,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e9b7bde530536030800000000000000
-      internalID: 3486718729066625504
+      spriteID: 0e5d6f94de7c3a500800000000000000
+      internalID: 406388213355566560
       vertices: []
       indices: 
       edges: []
@@ -429,10 +453,10 @@ TextureImporter:
       name: gas_13
       rect:
         serializedVersion: 2
-        x: 782
-        y: 551
-        width: 220
-        height: 427
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,8 +464,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dbf95946dab23cb0800000000000000
-      internalID: -4885637216227165224
+      spriteID: 81e05356f2ea49020800000000000000
+      internalID: 2347692824351542808
       vertices: []
       indices: 
       edges: []
@@ -450,10 +474,10 @@ TextureImporter:
       name: gas_14
       rect:
         serializedVersion: 2
-        x: 1231
-        y: 551
-        width: 282
-        height: 427
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,155 +485,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b22cda8a90011500800000000000000
-      internalID: 365073708548367026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gas_15
-      rect:
-        serializedVersion: 2
-        x: 1742
-        y: 551
-        width: 284
-        height: 427
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8bb74c68589247ed0800000000000000
-      internalID: -2417261446522700872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gas_16
-      rect:
-        serializedVersion: 2
-        x: 2254
-        y: 551
-        width: 284
-        height: 427
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e86aa69cda7ecf960800000000000000
-      internalID: 7637233801708086926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gas_17
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 38
-        width: 282
-        height: 428
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f95560c9bdb7b300800000000000000
-      internalID: 267891308346300920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gas_18
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 38
-        width: 284
-        height: 428
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e161bcbbecf52840800000000000000
-      internalID: 5198839434282361320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gas_19
-      rect:
-        serializedVersion: 2
-        x: 1231
-        y: 38
-        width: 282
-        height: 428
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b5b8784927612a30800000000000000
-      internalID: 4188742555438462386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gas_20
-      rect:
-        serializedVersion: 2
-        x: 1742
-        y: 38
-        width: 284
-        height: 428
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db77af52477ce8540800000000000000
-      internalID: 5012162736977246141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gas_21
-      rect:
-        serializedVersion: 2
-        x: 2254
-        y: 38
-        width: 284
-        height: 428
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0bd4eb38dffa3bf80800000000000000
-      internalID: -8091930602082775632
+      spriteID: ac4be7f54d6426e80800000000000000
+      internalID: -8186903294656990006
       vertices: []
       indices: 
       edges: []

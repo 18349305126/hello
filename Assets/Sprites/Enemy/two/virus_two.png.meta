@@ -14,6 +14,18 @@ TextureImporter:
   - first:
       213: 3307514537615104630
     second: virus_two_3
+  - first:
+      213: -798389979134244846
+    second: virus_two_0
+  - first:
+      213: 6051456941090240005
+    second: virus_two_1
+  - first:
+      213: -4751873901885288084
+    second: virus_two_2
+  - first:
+      213: 9134656620740745437
+    second: virus_two_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -102,10 +114,10 @@ TextureImporter:
       name: virus_two_0
       rect:
         serializedVersion: 2
-        x: 276
-        y: 293
-        width: 463
-        height: 445
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -113,8 +125,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b891c7bd6b3c9b10800000000000000
-      internalID: 1989530477811308720
+      spriteID: 218c8754b8c8be4f0800000000000000
+      internalID: -798389979134244846
       vertices: []
       indices: 
       edges: []
@@ -123,10 +135,10 @@ TextureImporter:
       name: virus_two_1
       rect:
         serializedVersion: 2
-        x: 1294
-        y: 326
-        width: 477
-        height: 382
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,8 +146,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7420e7a5ad2e94310800000000000000
-      internalID: 1389891387469464135
+      spriteID: 5067143a6081bf350800000000000000
+      internalID: 6051456941090240005
       vertices: []
       indices: 
       edges: []
@@ -144,10 +156,10 @@ TextureImporter:
       name: virus_two_2
       rect:
         serializedVersion: 2
-        x: 2309
-        y: 316
-        width: 495
-        height: 400
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,8 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 798d6a1295d207e30800000000000000
-      internalID: 4499145888583047319
+      spriteID: c619dacdcd3fd0eb0800000000000000
+      internalID: -4751873901885288084
       vertices: []
       indices: 
       edges: []
@@ -165,10 +177,10 @@ TextureImporter:
       name: virus_two_3
       rect:
         serializedVersion: 2
-        x: 3276
-        y: 214
-        width: 608
-        height: 606
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,8 +188,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67a1dffa2f6a6ed20800000000000000
-      internalID: 3307514537615104630
+      spriteID: dd81c609cc1d4ce70800000000000000
+      internalID: 9134656620740745437
       vertices: []
       indices: 
       edges: []

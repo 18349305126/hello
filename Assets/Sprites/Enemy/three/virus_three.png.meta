@@ -20,6 +20,117 @@ TextureImporter:
   - first:
       213: 8054010172139699816
     second: virus_three_5
+  - first:
+      213: 2636524805372151837
+    second: virus_three_0
+  - first:
+      213: -4631650629548342594
+    second: virus_three_1
+  - first:
+      213: -218103050499725385
+    second: virus_three_2
+  - first:
+      213: -7078159142956873253
+    second: virus_three_3
+  - first:
+      213: 5678712068581820749
+    second: virus_three_4
+  - first:
+      213: 4673937684808426153
+    second: virus_three_5
+  - first:
+      213: -4817040059337152426
+    second: virus_three_6
+  - first:
+      213: -4088635001785505485
+    second: virus_three_7
+  - first:
+      213: 8196790670468058792
+    second: virus_three_8
+  - first:
+      213: -8701750985494803538
+    second: virus_three_9
+  - first:
+      213: -6831410084172982999
+    second: virus_three_10
+  - first:
+      213: 3222757103360664372
+    second: virus_three_11
+  - first:
+      213: -6243153419059750610
+    second: virus_three_12
+  - first:
+      213: -7474414186280609411
+    second: virus_three_13
+  - first:
+      213: 8657189291008213817
+    second: virus_three_14
+  - first:
+      213: 8317615152807171051
+    second: virus_three_15
+  - first:
+      213: -4909971455077029616
+    second: virus_three_16
+  - first:
+      213: -268784102233936451
+    second: virus_three_17
+  - first:
+      213: -4217520468523669155
+    second: virus_three_18
+  - first:
+      213: 5179946324197624274
+    second: virus_three_19
+  - first:
+      213: 2889614661928406253
+    second: virus_three_20
+  - first:
+      213: 2157528870231452387
+    second: virus_three_21
+  - first:
+      213: -3135244478279762021
+    second: virus_three_22
+  - first:
+      213: 6155459477382104243
+    second: virus_three_23
+  - first:
+      213: 4481117323843320019
+    second: virus_three_24
+  - first:
+      213: 7759547365257227093
+    second: virus_three_25
+  - first:
+      213: -239359385037593015
+    second: virus_three_26
+  - first:
+      213: -4267204205252596692
+    second: virus_three_27
+  - first:
+      213: -4624732226569993332
+    second: virus_three_28
+  - first:
+      213: -5399351138960402459
+    second: virus_three_29
+  - first:
+      213: 4846321256505001086
+    second: virus_three_30
+  - first:
+      213: 5166696157644849601
+    second: virus_three_31
+  - first:
+      213: 6251565056312137607
+    second: virus_three_32
+  - first:
+      213: -3927132652695828275
+    second: virus_three_33
+  - first:
+      213: 3046029029080800302
+    second: virus_three_34
+  - first:
+      213: -4518904657416147540
+    second: virus_three_35
+  - first:
+      213: 583251835587100367
+    second: virus_three_36
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -108,10 +219,10 @@ TextureImporter:
       name: virus_three_0
       rect:
         serializedVersion: 2
-        x: 421
-        y: 1342
-        width: 245
-        height: 325
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,8 +230,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3f092b900d70c110800000000000000
-      internalID: 1279159735729852220
+      spriteID: d1886b17751d69420800000000000000
+      internalID: 2636524805372151837
       vertices: []
       indices: 
       edges: []
@@ -129,10 +240,10 @@ TextureImporter:
       name: virus_three_1
       rect:
         serializedVersion: 2
-        x: 1396
-        y: 1342
-        width: 295
-        height: 325
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +251,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd32951be86d8d440800000000000000
-      internalID: 4960950897897710557
+      spriteID: eb28e0eba4219bfb0800000000000000
+      internalID: -4631650629548342594
       vertices: []
       indices: 
       edges: []
@@ -150,10 +261,10 @@ TextureImporter:
       name: virus_three_2
       rect:
         serializedVersion: 2
-        x: 2469
-        y: 1342
-        width: 247
-        height: 325
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,8 +272,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76422b46ef54d14b0800000000000000
-      internalID: -5468137413644508057
+      spriteID: 7b7e88e5e6429fcf0800000000000000
+      internalID: -218103050499725385
       vertices: []
       indices: 
       edges: []
@@ -171,10 +282,10 @@ TextureImporter:
       name: virus_three_3
       rect:
         serializedVersion: 2
-        x: 3494
-        y: 1342
-        width: 205
-        height: 325
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,8 +293,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2afc0b64cb452fe80800000000000000
-      internalID: -8146355608343228510
+      spriteID: bd94f5cd2c355cd90800000000000000
+      internalID: -7078159142956873253
       vertices: []
       indices: 
       edges: []
@@ -192,10 +303,10 @@ TextureImporter:
       name: virus_three_4
       rect:
         serializedVersion: 2
-        x: 4516
-        y: 1342
-        width: 248
-        height: 325
+        x: 4096
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +314,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e4dc8f184dd8a490800000000000000
-      internalID: -7734689058172119832
+      spriteID: d490b8d0a86dece40800000000000000
+      internalID: 5678712068581820749
       vertices: []
       indices: 
       edges: []
@@ -213,10 +324,10 @@ TextureImporter:
       name: virus_three_5
       rect:
         serializedVersion: 2
-        x: 236
-        y: 276
-        width: 608
-        height: 608
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,8 +335,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86ef4cf549795cf60800000000000000
-      internalID: 8054010172139699816
+      spriteID: 9a2615d8f892dd040800000000000000
+      internalID: 4673937684808426153
       vertices: []
       indices: 
       edges: []
